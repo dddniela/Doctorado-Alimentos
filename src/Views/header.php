@@ -142,7 +142,7 @@
                         <a class="nav-link active hover-blue" href="?option=26">Líneas de investigación</a>
                     </li>
                     <li class="nav-item hover-blue">
-                        <a class="nav-link active hover-blue" href="?option=4">Mapa Curricular</a>
+                        <a class="nav-link active hover-blue" href="?option=3">Mapa Curricular</a>
                     </li>
                     <li class="nav-item hover-blue">
                         <a class="nav-link active hover-blue" href="?option=5">Núcleo Académico</a>
