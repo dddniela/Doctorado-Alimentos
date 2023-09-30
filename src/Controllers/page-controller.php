@@ -104,6 +104,10 @@ if(isset($_GET['option'])){
         case 25:
             include_once "src/Views/egresados-vista.php";
         break;
+
+        case 26:
+            include_once "src/Views/lineasInvestigacion-vista.php";
+        break;
         
         default:
             include_once "src/Views/inicio.php";
