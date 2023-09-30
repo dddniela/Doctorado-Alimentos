@@ -108,6 +108,10 @@ if(isset($_GET['option'])){
         case 26:
             include_once "src/Views/lineasInvestigacion-vista.php";
         break;
+
+        case 27:
+            include_once "src/Views/nucleoAcademico-vista.php";
+        break;
         
         default:
             include_once "src/Views/inicio.php";

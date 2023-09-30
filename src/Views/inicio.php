@@ -72,7 +72,7 @@
 <!-- Sección: Descripción de la maestría -->
 <section class="seccion-contenedor">
 
-    <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7594.jpg" alt="">
+    <img class="seccion-imagen" src="img/Inicio/seccion3.webp" alt="">
 
     <div class="seccion-texto">
       <h2 class="seccion-texto-titulo">Doctorado en Ciencias en Alimentos</h2>
@@ -92,7 +92,7 @@
 <!-- Sección: Lineas de investigación -->
 <section class="seccion-contenedor">
 
-  <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
+  <img class="seccion-imagen" src="img/Inicio/seccion4.webp" alt="">
 
   <div class="seccion-lista">
     <h2 class="seccion-texto-titulo">Líneas de investigación</h2>
@@ -141,10 +141,10 @@
   </div>
 
   <div class="seccion-galeria">
-    <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7573.jpg" alt="">
-    <img class="seccion-imagen" src="img/laboratorios/fisico-quimica/IMG_7431.jpg" alt="">
-    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7502.jpg" alt="">
-    <img class="seccion-imagen" src="img/laboratorios/enzimologia/IMG_7486.jpg" alt="">
+    <img class="seccion-imagen" src="img/Inicio/seccion1.webp" alt="">
+    <img class="seccion-imagen" src="img/Inicio/seccion2.webp" alt="">
+    <img class="seccion-imagen" src="img/Inicio/seccion9.webp" alt="">
+    <img class="seccion-imagen" src="img/Inicio/seccion10.webp" alt="">
   </div>
 
 </section>
@@ -153,12 +153,12 @@
 <section class="seccion-contenedor">
 
   <div class="seccion-galeria">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/sandraPerezCorrea.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/genovevaDominguezSanchez.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/manuelSusunagaMiranda.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/joseBarranHerrera.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/mirnaSuarezQuiroz.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/guadalupeRodriguezJimenes.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/carolinaPeñaMontes.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/rosaOliartRos.webp" alt="">
     <img class="seccion-imagen-pequeña" src="img/Docentes/patriciaMendozaGarcia.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/aniluMirandaMedina.webp" alt="">
+    <img class="seccion-imagen-pequeña" src="img/Docentes/beatrizTorrestianaSanchez.webp" alt="">
   </div>
 
   <div class="seccion-texto">
@@ -207,7 +207,7 @@
     </a>
   </div>
 
-  <img class="seccion-imagen" src="img/laboratorios/IMG_7462.jpg" alt="">
+  <img class="seccion-imagen" src="img/Inicio/seccion8.webp" alt="">
 
 </section>
 

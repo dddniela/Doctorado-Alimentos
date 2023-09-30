@@ -145,7 +145,7 @@
                         <a class="nav-link active hover-blue" href="?option=3">Mapa Curricular</a>
                     </li>
                     <li class="nav-item hover-blue">
-                        <a class="nav-link active hover-blue" href="?option=5">Núcleo Académico</a>
+                        <a class="nav-link active hover-blue" href="?option=27">Núcleo Académico</a>
                     </li>
                     <li class="nav-item hover-blue">
                         <a class="nav-link active hover-blue" href="?option=6">Instalaciones</a>

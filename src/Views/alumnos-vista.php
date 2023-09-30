@@ -1,7 +1,7 @@
 <!-- Sección: Portada -->
 <div class="row g-0">
     <div class="position-relative w-100 overflow-hidden">
-        <img class="w-100 img-fluid" src="img/IBQ-IQ/P20.webp" alt="">
+        <img class="w-100 img-fluid" src="img/Alumnos/banner1.webp" alt="">
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
                 <h1 class="fw-bold text-warning shadow-text">Alumnos</h1>
@@ -14,7 +14,7 @@
 <!-- Sección: Perfil de ingreso -->
 <section class="seccion-contenedor">
 
-    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7512.jpg" alt="">
+    <img class="seccion-imagen" src="img/Alumnos/seccion1.webp" alt="">
 
     <div class="seccion-texto">
         <h2 class="seccion-texto-titulo">Objetivo General</h2>
@@ -49,7 +49,7 @@
         <li class="seccion-texto-lista-item">Incumplir cualquiera de estás, u otras disposiciones emitidas por las instancias educativas al efecto, será causa de baja definitiva del estudiante de programa</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/bioprocesos/IMG_7636.jpg" alt="">
+    <img class="seccion-imagen" src="img/Alumnos/seccion2.webp" alt="">
 
 </section>
 
@@ -74,5 +74,5 @@
             en su entorno social.
         </p>
     </div>
-    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7512.jpg" alt="">
+    <img class="seccion-imagen" src="img/Alumnos/seccion3.webp" alt="">
 </section>

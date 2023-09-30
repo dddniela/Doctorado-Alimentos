@@ -1,7 +1,7 @@
 <!-- Sección: Portada -->
 <div class="row g-0">
     <div class="position-relative w-100 overflow-hidden">
-        <img class="w-100 img-fluid" src="img/IBQ-IQ/P20.webp" alt="">
+        <img class="w-100 img-fluid" src="img/Aspirantes/banner1.webp" alt="">
         <div class="position-absolute top-50 start-50 translate-middle w-100">
             <div class="d-flex flex-column justify-content-center align-items-center text-center">
                 <h1 class="fw-bold text-warning shadow-text">Aspirantes</h1>
@@ -32,12 +32,12 @@
         <li class="seccion-texto-lista-item">Aprobar el proceso de evaluación de admisión</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7509.JPG" alt="">
+    <img class="seccion-imagen" src="img/Aspirantes/seccion1.webp" alt="">
 </section>
 
 <!-- Sección: Proceso de admisión -->
 <section class="seccion-contenedor modoOscuro">
-    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7512.jpg" alt="">
+    <img class="seccion-imagen" src="img/Aspirantes/seccion2.webp" alt="">
     <div class="seccion-texto">
         <h2 class="seccion-texto-titulo">Proceso de admisión</h2>
         <div class="seccion-texto-separador"></div>

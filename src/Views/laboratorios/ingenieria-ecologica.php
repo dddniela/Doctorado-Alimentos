@@ -16,3 +16,8 @@
 
         <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
 </section>
+<section>
+    <div class="justify-content-center text-center">
+        <p><a class="btn-warning w-auto btn font-bold" target="_blank" onClick="history.go(-1);">Regresar</a></p>
+    </div>
+</section>
