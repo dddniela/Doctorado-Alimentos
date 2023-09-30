@@ -11,7 +11,7 @@
 
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/IBQ-IQ/P49.webp" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/Inicio/banner1.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption d-flex flex-column">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Doctorado en Ciencias en Alimentos</h1>
@@ -23,34 +23,34 @@
       </div>
 
       <div class="carousel-item">
-        <img src="img/IBQ-IQ/P50.webp" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/Inicio/banner2.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Doctorado en Ciencias en Alimentos</h1>
             <h2 class="mainSubtitle text-center font-bold shadow-text">Desarrolla proyectos de investigación de alto nivel</h1>
-              <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=1">Explorar</a></p>
+              <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=26">Explorar</a></p>
           </div>
         </div>
       </div>
 
       <div class="carousel-item">
-        <img src="img/IBQ-IQ/P39.webp" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/Inicio/banner3.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Doctorado en Ciencias en Alimentos</h1>
             <h2 class="mainSubtitle text-center font-bold d-none d-md-inline-flex shadow-text"> Vincula la investigación con el sector productivo</h1>
-            <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=5">Explorar</a></p>
+            <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=26">Explorar</a></p>
           </div>
         </div>
       </div>
 
       <div class="carousel-item">
-        <img src="img/IBQ-IQ/P51.webp" class="d-block w-100 align-middle" width="100%" height="100%">
+        <img src="img/Inicio/banner4.webp" class="d-block w-100 align-middle" width="100%" height="100%">
         <div class="container">
           <div class="carousel-caption">
             <h1 class="mainTitle text-center font-bold m-2 shadow-text">Doctorado en Ciencias en Alimentos</h1>
             <h2 class="mainSubtitle text-center font-bold shadow-text">Mejora el desarrollo de la industria en alimentos y biotecnología</h1>
-              <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=1">Explorar</a></p>
+              <p><a class="mainButton btn font-bold d-none d-md-inline-flex" href="?option=26">Explorar</a></p>
           </div>
         </div>
       </div>
@@ -77,8 +77,14 @@
     <div class="seccion-texto">
       <h2 class="seccion-texto-titulo">Doctorado en Ciencias en Alimentos</h2>
       <div class="seccion-texto-separador"></div>
-      <p class="seccion-texto-parrafo">Desarrolla tu pasión por la biotecnología y la innovación inscribiéndote en nuestra Doctorado en Ciencias en Alimentos. Atrévete a explorar las maravillas de la ingeniería molecular y la transformación de la biología en soluciones prácticas. Únete a nosotros para ampliar tus horizontes, contribuir al progreso científico y convertirte en un líder en la creciente industria de la bioingeniería.</p>
-      <a href="#" class="seccion-boton">Saber más</a>
+      <p class="seccion-texto-parrafo">
+      Estudiar el doctorado en ciencias en alimentos te ofrece la oportunidad de profundizar en la 
+      investigación de la nutrición y la tecnología alimentaria, abriendo puertas a la innovación en la
+      industria y contribuyendo a la salud pública. Este programa brinda las habilidades y conocimientos 
+      necesarios para abordar los desafíos alimentarios del futuro y marcar una diferencia significativa en 
+      el mundo.
+      </p>
+      <a href="?option=26" class="seccion-boton">Saber más</a>
     </div>
     
 </section>
@@ -92,28 +98,30 @@
     <h2 class="seccion-texto-titulo">Líneas de investigación</h2>
     <div class="seccion-texto-separador"></div>
     <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/procesosIndustriales.png" alt="">
-      <h5 class="seccion-lista-parrafo">Aplicaciones de la Biología Molecular en Ingeniería Metabólica, Biocatálisis y Control Biológico</h5>
+      <img class="seccion-lista-icono" src="img/lineasInvestigacion/procesosIndustriales.png" alt="">
+      <h5 class="seccion-lista-parrafo">Ingeniería de Alimentos</h5>
     </a>
 
     <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/controlProcesos.png" alt="">
-      <h5 class="seccion-lista-parrafo">Estudios Nutrigenéticos, Funcionales y Toxicológicos de Alimentos</h5>
-    </a>
-
-    <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/riesgosIndustriales.png" alt="">
-      <h5 class="seccion-lista-parrafo">Ingeniería y Tecnología de Procesos Biológicos</h5>
-    </a>
-
-    <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/formulacionProyectos.png" alt="">
+      <img class="seccion-lista-icono" src="img/lineasInvestigacion/controlProcesos.png" alt="">
       <h5 class="seccion-lista-parrafo">Tecnología y Nanotecnología de Alimentos</h5>
     </a>
 
     <a href="?option=3" class="seccion-lista-item">
-      <img class="seccion-lista-icono" src="img/topicos/analisisQuimico.png" alt="">
-      <h5 class="seccion-lista-parrafo">Ingeniería de Alimentos</h5>
+      <img class="seccion-lista-icono" src="img/lineasInvestigacion/riesgosIndustriales.png" alt="">
+      <h5 class="seccion-lista-parrafo">Ingeniería y Tecnología de Procesos Biológicos</h5>
+    </a>
+
+    <a href="?option=3" class="seccion-lista-item">
+      <img class="seccion-lista-icono" src="img/lineasInvestigacion/formulacionProyectos.png" alt="">
+      <h5 class="seccion-lista-parrafo">Estudios Nutrigenénicos, Funcionales y Toxicologicos de Alimentos</h5>
+    </a>
+
+    <a href="?option=3" class="seccion-lista-item">
+      <img class="seccion-lista-icono" src="img/lineasInvestigacion/analisisQuimico.png" alt="">
+      <h5 class="seccion-lista-parrafo">Aplicaciones de la Biología Molecular en Ingeniería Metabólica,
+      Biocatálisis y Control Biológico
+      </h5>
     </a>
   </div>
 </section>
@@ -124,10 +132,11 @@
   <div class="seccion-texto">
     <h2 class="seccion-texto-titulo">Instalaciones</h2>
     <div class="seccion-texto-separador"></div>
-    <p class="seccion-texto-parrafo">Te invitamos a explorar los laboratorios que conforman nuestro Doctorado en Ciencias en Alimentos. 
-      Cada laboratorio ha sido meticulosamente diseñado para sumergirte en el fascinante mundo de la biotecnología y la ingeniería molecular. 
-      Desde la manipulación de biomoléculas hasta la producción de biofármacos, nuestros laboratorios ofrecen una plataforma única para poner 
-      en práctica tus habilidades y contribuir a la vanguardia de la investigación científica.</p>
+    <p class="seccion-texto-parrafo">La Unidad de Investigación y Desarrollo en Alimentos cuenta con la 
+      infraestructura física necesaria y suficiente para que los estudiantes de Licenciatura, Maestría y 
+      Doctorado llevan a cabo sus proyectos de investigación. La UNIDA está formada por 19 laboratorios, 
+      dos plantas pilotos, salones de clase, una sala de usos múltiples y un auditorio que permiten el 
+      desarrollo de sus actividades de investigación y docencia.</p>
     <a href="?option=6" class="seccion-boton">Explorar</a>
   </div>
 
@@ -170,17 +179,19 @@
 
   <div class="seccion-lista">
     <h2 class="seccion-texto-titulo">Recursos</h2>
+
     <div class="seccion-texto-separador"></div>
+   
     <a href="#" class="seccion-lista-item">
       <h5 class="seccion-lista-parrafo">Proceso de admisión</h5>
     </a>
 
     <a href="#" class="seccion-lista-item">
-      <h5 class="seccion-lista-parrafo">Formato de resumen</h5>
+      <h5 class="seccion-lista-parrafo">Formato de resumen doctorado</h5>
     </a>
 
     <a href="#" class="seccion-lista-item">
-      <h5 class="seccion-lista-parrafo">Formato de tesis</h5>
+      <h5 class="seccion-lista-parrafo">Manual redacción de tesis</h5>
     </a>
 
     <a href="#" class="seccion-lista-item">
@@ -189,6 +200,10 @@
 
     <a href="#" class="seccion-lista-item">
       <h5 class="seccion-lista-parrafo">Procesos de reinscripción</h5>
+    </a>
+
+    <a href="#" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Calendario escolar</h5>
     </a>
   </div>
 

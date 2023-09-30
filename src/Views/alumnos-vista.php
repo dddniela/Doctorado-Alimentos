@@ -19,7 +19,11 @@
     <div class="seccion-texto">
         <h2 class="seccion-texto-titulo">Objetivo General</h2>
         <div class="seccion-texto-separador"></div>
-        <p class="seccion-texto-parrafo">Formar profesionales e investigadores capaces de generar y aplicar conceptos de Ingeniería Bioquímica en las áreas de Alimentos y Biotecnología. </p>
+        <p class="seccion-texto-parrafo">
+            Formar profesionales e investigadores capaces de generar y aplicar los 
+            métodos y teorías en las áreas de alimentos y biotecnología. El egresado podrá abordar problemas de 
+            investigación aplicada al desarrollo, producción y procesamiento de productos biológicos.
+        </p>
 
         <h3 class="seccion-texto-subtitulo">Objetivos específicos:</h3>
         <li class="seccion-texto-lista-item">Formar profesionales e investigadores capaces de generar y aplicar conceptos de Ingeniería Bioquímica en las áreas de Alimentos y Biotecnología.</li>
@@ -49,34 +53,26 @@
 
 </section>
 
+<!-- Sección: Perfil Egreso -->
 <section class="seccion-contenedor">
-
-  <div class="seccion-tarjetas">
-
-    <div class="seccion-tarjeta">
-      <img class="seccion-tarjeta-imagen-egreso" src="img/icon1.PNG" alt="">
-      <p class="seccion-tarjeta-descripcion">Punto de Perfil de Egreso 1</p>
+    <div class="seccion-texto">
+        <h2 class="seccion-texto-titulo">Perfil de egreso</h2>
+        <div class="seccion-texto-separador"></div>
+        <p class="seccion-texto-parrafo">Al egresar de este programa el Doctor en Ciencias en Alimentos 
+            será capaz de aplicar el conocimiento científico y técnico para desarrollar investigación que 
+            contribuya a resolver problemas en la industria y en su entorno, así como de formar recursos 
+            humanos de alto nivel en las áreas de alimentos y biotecnología.
+        </p>
+        <p class="seccion-texto-parrafo">Como investigador, deberá ser capaz de presentar los resultados de 
+            sus investigaciones en foros científicos y en revistas de prestigio internacional bajo arbitrio, 
+            hacerse llegar fondos para sus proyectos de investigación y vincularse con la industria para diseñar, 
+            mejorar u optimizar procesos alimentarios y biotecnológicos.
+        </p>
+        <p class="seccion-texto-parrafo">Como formador de recursos humanos, el egresado, deberá tener la 
+            habilidad para dirigir, asesorar y entrenar al personal a su cargo en los diferentes aspectos 
+            en sus áreas de competencia. El egresado será un profesionista que repercuta de forma sustentable 
+            en su entorno social.
+        </p>
     </div>
-    <div class="seccion-tarjeta">
-      <img class="seccion-tarjeta-imagen-egreso" src="img/icon1.PNG" alt="">
-      <p class="seccion-tarjeta-descripcion">Punto de Perfil de Egreso 2</p>
-    </div>
-    <div class="seccion-tarjeta">
-      <img class="seccion-tarjeta-imagen-egreso" src="img/icon1.PNG" alt="">
-      <p class="seccion-tarjeta-descripcion">Punto de Perfil de Egreso 3</p>
-    </div>
-    <div class="seccion-tarjeta">
-      <img class="seccion-tarjeta-imagen-egreso" src="img/icon1.PNG" alt="">
-      <p class="seccion-tarjeta-descripcion">Punto de Perfil de Egreso 4</p>
-    </div>
-    <div class="seccion-tarjeta">
-      <img class="seccion-tarjeta-imagen-egreso" src="img/icon1.PNG" alt="">
-      <p class="seccion-tarjeta-descripcion">Punto de Perfil de Egreso 5</p>
-    </div>
-    <div class="seccion-tarjeta">
-      <img class="seccion-tarjeta-imagen-egreso" src="img/icon1.PNG" alt="">
-      <p class="seccion-tarjeta-descripcion">Punto de Perfil de Egreso 6</p>
-    </div>
-
-  </div>
+    <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7512.jpg" alt="">
 </section>
