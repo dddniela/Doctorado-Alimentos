@@ -139,7 +139,7 @@
                         <a class="nav-link active hover-blue" href="?option=2">Alumnos</a>
                     </li>
                     <li class="nav-item hover-blue">
-                        <a class="nav-link active hover-blue" href="?option=26">Líneas de investigación</a>
+                        <a class="nav-link active hover-blue" href="?option=26">Líneas de Investigación</a>
                     </li>
                     <li class="nav-item hover-blue">
                         <a class="nav-link active hover-blue" href="?option=3">Mapa Curricular</a>

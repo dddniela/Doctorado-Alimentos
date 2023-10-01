@@ -114,14 +114,13 @@
 
     <a href="?option=3" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/lineasInvestigacion/nutrigeneticaAlimentos.png" alt="">
-      <h5 class="seccion-lista-parrafo">Estudios Nutrigenénicos, Funcionales y Toxicologicos de Alimentos</h5>
+      <h5 class="seccion-lista-parrafo">Estudios Nutrigenénicos, Funcionales y Toxicológicos de Alimentos</h5>
     </a>
 
     <a href="?option=3" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/lineasInvestigacion/biologiaMolecularAlimentos.png" alt="">
       <h5 class="seccion-lista-parrafo">Aplicaciones de la Biología Molecular en Ingeniería Metabólica,
-      Biocatálisis y Control Biológico
-      </h5>
+      Biocatálisis y Control Biológico</h5>
     </a>
   </div>
 </section>
