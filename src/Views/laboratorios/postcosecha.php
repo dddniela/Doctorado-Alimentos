@@ -6,14 +6,14 @@
 </section>
 
 <section>
-    <button class="btn btn-outline-dark rounded-circle p-3 lh-1"
+    <div class="btn btn-outline-dark rounded-circle p-3 lh-1"
         style="position: fixed; bottom: 70px; right: 70px; background-color: #1B396A;"
         onmouseover="this.style.backgroundColor='#1B396A';" onmouseout="this.style.backgroundColor='#1B396A';"
-        type="button">
+        type="button" href="?option=14">
 
-        <a href="#regreso"><input class="bi" width="30" height="30" type="image" src=img/iconos/arriba.png></a>
+        <a href="?option=14"><input class="bi" width="30" height="30" type="image" src=img/iconos/arriba.png></a>
 
-    </button>
+    </div>
 </section>
 
 <section class="seccion-contenedor">
