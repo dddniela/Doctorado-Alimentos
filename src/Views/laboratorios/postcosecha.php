@@ -1,6 +1,22 @@
-<!-- Sección: Datos generales -->
-<section class="seccion-contenedor">
+<section id="regreso" style=" padding: 50px 60px 0px ;">
+    <div class="justify-content-left text-left">
+        <p><a class="btn-outline-light w-auto btn font-bold btn-lg" style="background-color: #1B396A;" target="_blank"
+                onClick="history.go(-1);">Regresar</a></p>
+    </div>
+</section>
 
+<section>
+    <button class="btn btn-outline-dark rounded-circle p-3 lh-1"
+        style="position: fixed; bottom: 70px; right: 70px; background-color: #1B396A;"
+        onmouseover="this.style.backgroundColor='#1B396A';" onmouseout="this.style.backgroundColor='#1B396A';"
+        type="button">
+
+        <a href="#regreso"><input class="bi" width="30" height="30" type="image" src=img/iconos/arriba.png></a>
+
+    </button>
+</section>
+
+<section class="seccion-contenedor">
         <div class="seccion-texto">
             <h2 class="seccion-texto-titulo">Laboratorio de Manejo Postcosecha</h2>
             <div class="seccion-texto-separador"></div>
@@ -64,9 +80,4 @@
             <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
         </div>
 
-</section>
-<section>
-    <div class="justify-content-center text-center">
-        <p><a class="btn-warning w-auto btn font-bold" target="_blank" onClick="history.go(-1);">Regresar</a></p>
-    </div>
 </section>
