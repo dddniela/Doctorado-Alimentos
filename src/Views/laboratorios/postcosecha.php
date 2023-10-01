@@ -33,7 +33,7 @@
             <li class="seccion-texto-lista-item">52-229-9345701 ext:116, 115</li>
         </div>
 
-        <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/postcosecha/IMG_1029.JPG" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->
@@ -76,8 +76,10 @@
         </div>
 
         <div class="seccion-galeria">
-            <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
-            <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
+            <img class="seccion-imagen" src="img/laboratorios/postcosecha/IMG_1022.JPG" alt="">
+            <img class="seccion-imagen" src="img/laboratorios/postcosecha/IMG_1037.JPG" alt="">
+            <img class="seccion-imagen" src="img/laboratorios/postcosecha/IMG_1048.JPG" alt="">
+            <img class="seccion-imagen" src="img/laboratorios/postcosecha/IMG_1053.JPG" alt="">
         </div>
 
 </section>

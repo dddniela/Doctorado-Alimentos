@@ -45,14 +45,14 @@
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/postcosecha/postcosecha.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Manejo Postcosecha</h5>
         <p class="seccion-tarjeta-descripcion">Se trabaja con especies frutales genéticamente modificadas para obtener una larga vida de anaquel.</p>
         <a href="?option=14" class="seccion-boton">Explorar</a> 
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/ecologicaAmbientalCiencias/ecologicaAmbientalCiencias.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Ingeniería Ecológica Ambiental y Ciencias</h5>
         <p class="seccion-tarjeta-descripcion">Desarrollar y realizar proyectos de investigación de ciencia básica y aplicada en el ámbito de la ecología e ingeniería ecológica y ambiental.</p>
         <a href="?option=15" class="seccion-boton">Explorar</a> 
@@ -73,14 +73,14 @@
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/fermentaciones/fermentaciones.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Fermentaciones</h5>
         <p class="seccion-tarjeta-descripcion">Este laboratorio está dedicado a la docencia y la investigación, el equipo permite validar estudios hechos en fermentadores más pequeños.</p>
         <a href="?option=18" class="seccion-boton">Explorar</a> 
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/sensorialcocinaexperimental/sensorialcocinaexperimental.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Evaluación Sensorial y Cocina experimental</h5>
         <p class="seccion-tarjeta-descripcion">El laboratorio de Evaluación Sensorial cuenta con las infraestructuras físicas para desarrollar pruebas de evaluación sensorial según metodologías tradicionales.</p>
         <a href="?option=19" class="seccion-boton">Explorar</a> 
@@ -94,28 +94,28 @@
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/bioingenieriabioetanol/bioingenieriabioetanol.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Bioingeniería y Planta Piloto de Bioetanol 1G y 2G</h5>
         <p class="seccion-tarjeta-descripcion">Realizamos proyectos de investigación enfocados al desarrollo de nuevos procesos o mejoramiento de procesos biológicos tales como: producción de bioetanol de 1ª y 2ª generación.</p>
         <a href="?option=21" class="seccion-boton">Explorar</a> 
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/bromatologia/bromatologia.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Bromatología</h5>
         <p class="seccion-tarjeta-descripcion">Este laboratorio genera conocimientos en  microbiología e inocuidad de los alimentos. Se desarrollan trabajos de investigación sobre la dinámica de microorganismos.</p>
         <a href="?option=22" class="seccion-boton">Explorar</a> 
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/bioquimica/bioquimica.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Bioquímica de la Nutrición</h5>
         <p class="seccion-tarjeta-descripcion">En el laboratorio se vinculan las rutas bioquímicas más importantes asociadas con desordenes metabólicos con la finalidad de comprender su importancia.</p>
         <a href="?option=23" class="seccion-boton">Explorar</a> 
       </div>
 
       <div href="#" class="seccion-tarjeta">
-        <img class="seccion-tarjeta-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+        <img class="seccion-tarjeta-imagen" src="img/laboratorios/bioestadistica/bioestadistica.png" alt="">
         <h5 class="seccion-tarjeta-titulo">Laboratorio de Bioestadística</h5>
         <p class="seccion-tarjeta-descripcion">Laboratorio donde se desarrollan proyectos de modelación y optimización de procesos termodinámicos y de transporte en alimentos o biotecnológicos.</p>
         <a href="?option=24" class="seccion-boton">Explorar</a> 

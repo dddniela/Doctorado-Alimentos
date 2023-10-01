@@ -15,7 +15,7 @@
         <li class="seccion-texto-lista-item">+52 (229) 9345701; 9341469. Ext. 110</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorios/bioestadistica/IMG-5.JPG" alt="">
 
 </section>
 
@@ -47,8 +47,10 @@
     </div>
 
     <div class="seccion-galeria">
-        <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
-        <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioestadistica/IMG-1.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioestadistica/IMG-2.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioestadistica/IMG-3.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioestadistica/IMG-4.JPG" alt="">
     </div>
 
 </section>

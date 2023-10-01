@@ -19,7 +19,7 @@
         <li class="seccion-texto-lista-item">2299345701 ext 211</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorios/bioingenieriabioetanol/IMG-1.JPG" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->
@@ -74,8 +74,10 @@
     </div>
 
     <div class="seccion-galeria">
-        <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
-        <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioingenieriabioetanol/IMG-2.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioingenieriabioetanol/IMG-3.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioingenieriabioetanol/IMG-4.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioingenieriabioetanol/IMG-5.jpg" alt="">
     </div>
 
 </section>

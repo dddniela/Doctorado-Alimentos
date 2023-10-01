@@ -19,7 +19,7 @@
         <li class="seccion-texto-lista-item">(229) 934 5701 ext.  113</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorios/bioquimica/IMG-5.JPG" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->
@@ -58,8 +58,10 @@
     </div>
 
     <div class="seccion-galeria">
-        <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
-        <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioquimica/IMG-1.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioquimica/IMG-2.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioquimica/IMG-3.JPG" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/bioquimica/IMG-4.JPG" alt="">
     </div>
 
 </section>

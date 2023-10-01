@@ -14,7 +14,7 @@
         <li class="seccion-texto-lista-item">52-229-9345701</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorios/fermentaciones/IMG-1.jpg" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->
@@ -53,8 +53,10 @@
     </div>
 
     <div class="seccion-galeria">
-        <img class="seccion-imagen" src="img/laboratorios/IMG_7489.jpg" alt="">
-        <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7572.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/fermentaciones/IMG-2.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/fermentaciones/IMG-3.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/fermentaciones/IMG-4.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/fermentaciones/IMG-5.jpg" alt="">
     </div>
 
 </section>
