@@ -10,3 +10,22 @@
     </div>
 </div>
 
+<section>
+    <div class="row g-0">
+        <div class="position-relative w-100 overflow-hidden">
+            <img class="w-100 img-fluid" src="img/MapaCurricular/planEstudiosDCA.webp" alt="">
+            <div class="position-absolute top-50 start-50 translate-middle w-100">
+            </div>
+        </div>
+    </div>
+</section>
+
+ <!-- <section class="mb-4">
+    <div class="row g-0">
+        <div class="position-relative w-100 overflow-hidden d-flex justify-content-center align-items-center">
+            <img class="w-50 img-fluid" src="img/MapaCurricular/planEstudiosDCA.webp" alt="">
+            <div class="position-absolute top-50 start-50 translate-middle w-100">
+            </div>
+        </div>
+    </div>
+</section> -->
