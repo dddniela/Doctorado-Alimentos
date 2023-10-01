@@ -309,32 +309,5 @@
     </div>
 </div>
 
-<div class='modal fade' id='modalReticula' tabindex='-1' aria-labelledby='modalReticula' aria-hidden='true'>
-    <div class='modal-dialog modal-lg'>
-        <div class='modal-content'>
-            <div class='modal-header azul-medio'>
-                <h5 class='modal-title text-white font-semibold' id='modalTitulo'></h5>
-                <button type='button' class='btn-close text-white' data-bs-dismiss='modal' aria-label='Close'></button>
-            </div>
-            <div class='modal-body'>
-                <div class='d-flex justify-content-center mb-4' style='text-align: justify;'>
-                    <p id="descReticula"></p>
-                </div>
-                <div class='d-flex justify-content-center my-2'>
-                    <iframe class='aspect-video video-reticula' id='videoReticula' src='' title='YouTube video player'
-                        frameborder='0'
-                        allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                        allowfullscreen>
-                    </iframe>
-                </div>
-                <div class='d-flex p-2 justify-content-center align-items-center'>
-                    <a target='_blank' href='' id="urlReticula"><button type='button'
-                            class='btn btn-warning font-bold'>Descargar programa</button></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 </div>
 <!-- Fin Mapa curricular -->
