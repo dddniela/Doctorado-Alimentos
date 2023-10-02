@@ -69,25 +69,38 @@
 </section>
 <!--Fin Carrusel de portada -->
 
-<!-- Sección: Descripción de la maestría -->
-<section class="seccion-contenedor">
-
-    <img class="seccion-imagen" src="img/Inicio/seccion3.webp" alt="">
-
-    <div class="seccion-texto">
-      <h2 class="seccion-texto-titulo">Doctorado en Ciencias en Alimentos</h2>
-      <div class="seccion-texto-separador"></div>
-      <p class="seccion-texto-parrafo">
-      Estudiar el doctorado en ciencias en alimentos te ofrece la oportunidad de profundizar en la 
-      investigación de la nutrición y la tecnología alimentaria, abriendo puertas a la innovación en la
-      industria y contribuyendo a la salud pública. Este programa brinda las habilidades y conocimientos 
-      necesarios para abordar los desafíos alimentarios del futuro y marcar una diferencia significativa en 
-      el mundo.
-      </p>
-      <a href="?option=26" class="seccion-boton">Saber más</a>
+<!-- Razones para estudiar el doctorado -->
+<section class="p-2">
+  <div class="row px-2 g-0">
+    <div class="col-lg-6 col-12 p-2 shadow-sm">
+      <div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <img class="img-fluid rounded" src="img/Inicio/seccion3.webp" alt="">
+      </div>
     </div>
-    
+
+    <div class="lightSection col-lg-6 col-12 p-4">
+      <div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <div class="row g-0">
+          <div class="col-12">
+            <h2 class="sectionTitle text-center font-bold m-3">¿Por qué estudiar Doctorado en Ciencias en Alimentos?</h2>
+            <div class="sectionSeparator"></div>
+          </div>
+          <div class="col-12" style="text-align: center;">
+            <p style="text-align: justify;">
+            Estudiar el doctorado en ciencias en alimentos te ofrece la oportunidad de profundizar en la 
+            investigación de la nutrición y la tecnología alimentaria, abriendo puertas a la innovación en la
+            industria y contribuyendo a la salud pública. Este programa brinda las habilidades y conocimientos 
+            necesarios para abordar los desafíos alimentarios del futuro y marcar una diferencia significativa en 
+            el mundo.
+            </p>
+            <a class="btn btn-warning font-bold" href="?option=26" role="button">¡Saber más!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
+<!--Fin Razones para estudiar el doctorado -->
 
 <!-- Sección: Lineas de investigación -->
 <section class="seccion-contenedor">
@@ -125,28 +138,40 @@
   </div>
 </section>
 
-<!-- Sección: Instalaciones -->
-<section class="seccion-contenedor modoOscuro">
+<!-- Instalaciones -->
+<section class="darkSection bg-dark p-2 px-4">
+  <div class="row mb-4 px-2 g-0">
 
-  <div class="seccion-texto">
-    <h2 class="seccion-texto-titulo">Instalaciones</h2>
-    <div class="seccion-texto-separador"></div>
-    <p class="seccion-texto-parrafo">La Unidad de Investigación y Desarrollo en Alimentos cuenta con la 
-      infraestructura física necesaria y suficiente para que los estudiantes de Licenciatura, Maestría y 
-      Doctorado llevan a cabo sus proyectos de investigación. La UNIDA está formada por 19 laboratorios, 
-      dos plantas pilotos, salones de clase, una sala de usos múltiples y un auditorio que permiten el 
-      desarrollo de sus actividades de investigación y docencia.</p>
-    <a href="?option=6" class="seccion-boton">Explorar</a>
+    <div class="col-lg-6 col-12 py-4">
+      <div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <div class="row g-0">
+          <div class="col-12">
+            <h2 class="titleDarkSection text-center font-bold m-3">Instalaciones</h2>
+            <div class="darkSectionSeparator"></div>
+          </div>
+          <div class="col-12 px-4" style="text-align: center;">
+            <p class="text-light" style="text-align: justify;">
+            La Unidad de Investigación y Desarrollo en Alimentos cuenta con la 
+            infraestructura física necesaria y suficiente para que los estudiantes de Licenciatura, Maestría y 
+            Doctorado llevan a cabo sus proyectos de investigación. La UNIDA está formada por 19 laboratorios, 
+            dos plantas pilotos, salones de clase, una sala de usos múltiples y un auditorio que permiten el 
+            desarrollo de sus actividades de investigación y docencia.
+            </p>
+            <a class="btn btn-warning font-bold" href="?option=6" role="button">¡Explorar!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-6 col-12 p-4 shadow-sm">
+      <div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <img class="img-fluid rounded" src="img/Inicio/unida.png" alt="">
+      </div>
+    </div>
+
   </div>
-
-  <div class="seccion-galeria">
-    <img class="seccion-imagen" src="img/Inicio/seccion1.webp" alt="">
-    <img class="seccion-imagen" src="img/Inicio/seccion2.webp" alt="">
-    <img class="seccion-imagen" src="img/Inicio/seccion9.webp" alt="">
-    <img class="seccion-imagen" src="img/Inicio/seccion10.webp" alt="">
-  </div>
-
 </section>
+<!--Fin Instalaciones-->
 
 <!-- Comunidad docente  -->
 <section class="p-2 bg-light">
