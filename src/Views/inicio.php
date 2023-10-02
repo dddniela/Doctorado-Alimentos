@@ -148,30 +148,55 @@
 
 </section>
 
-<!-- Sección: Comunidad docente -->
-<section class="seccion-contenedor">
+<!-- Comunidad docente  -->
+<section class="p-2 bg-light">
+  <div class="row px-2 g-0">
 
-  <div class="seccion-galeria">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/mirnaSuarezQuiroz.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/guadalupeRodriguezJimenes.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/carolinaPeñaMontes.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/rosaOliartRos.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/patriciaMendozaGarcia.webp" alt="">
-    <img class="seccion-imagen-pequeña" src="img/Docentes/beatrizTorrestianaSanchez.webp" alt="">
+    <div class="col-lg-6 col-sm-12">
+      <div class="galleryContainer bg-light">
+        <div class="row g-0">
+          <div class="col-4 px-2">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="<?php echo $GLOBALS['PATH_DOCENTE'] . 'mirnaSuarezQuiroz.webp'; ?>" alt="">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="<?php echo $GLOBALS['PATH_DOCENTE'] . 'carolinaPeñaMontes.webp'; ?>" alt="">
+          </div>
+
+          <div class="col-4 px-2">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="<?php echo $GLOBALS['PATH_DOCENTE'] . 'rosaOliartRos.webp'; ?>" alt="">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="<?php echo $GLOBALS['PATH_DOCENTE'] . 'guadalupeRodriguezJimenes.webp'; ?>" alt="">
+          </div>
+
+          <div class="col-4 px-2">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="<?php echo $GLOBALS['PATH_DOCENTE'] . 'patriciaGuillerminaMendozaGarcia.webp'; ?>" alt="">
+            <img class="img-fluid w-100 shadow-1-strong rounded m-2" src="<?php echo $GLOBALS['PATH_DOCENTE'] . 'beatrizTorrestianaSanchez.webp'; ?>" alt="">
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="lightSection col-lg-6 col-12 px-4">
+      <div class="d-flex justify-content-center align-items-center w-100 h-100">
+        <div class="row g-0">
+          <div class="col-12">
+            <h2 class="sectionTitle text-center font-bold m-3">Comunidad docente</h2>
+            <div class="sectionSeparator"></div>
+          </div>
+          <div class="col-12" style="text-align: center;">
+            <p style="text-align: justify;">
+              Contamos con docentes de diversas disciplinas que son impulsores de cambio,
+              con estudios de posgrado y una amplia experiencia en el quehacer docente, quienes
+              demuestran diariamente su compromiso en las aulas. Son profesionales que tienen la facultad de
+              transformar vidas, de impactar a las futuras generaciones de estudiantes.
+            </p>
+            <a class="btn btn-warning font-bold" href="?option=2" role="button">¡Conocer docentes!</a>
+          </div>
+
+        </div>
+      </div>
+    </div>
   </div>
-
-  <div class="seccion-texto">
-    <h2 class="seccion-texto-titulo">Comunidad docente</h2>
-    <div class="seccion-texto-separador"></div>
-    <p class="seccion-texto-parrafo">Disponemos de un cuerpo docente multidisciplinario conformado por 
-      agentes de cambio, con sólida formación de posgrado y una rica trayectoria en el ámbito pedagógico. 
-      Su dedicación a la excelencia educativa se evidencia a diario en las aulas. Estos profesionales tienen 
-      la capacidad de moldear destinos, de dejar una huella profunda en las próximas generaciones de estudiantes, 
-      y de efectuar una influencia duradera en la esfera académica y más allá.</p>
-    <a href="#" class="seccion-boton">Conocer</a>
-  </div>
-
 </section>
+<!-- Fin Comunidad docente -->
 
 <!-- Sección: Recursos -->
 <section class="seccion-contenedor">
