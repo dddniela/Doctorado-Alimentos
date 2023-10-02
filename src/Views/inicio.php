@@ -97,27 +97,27 @@
   <div class="seccion-lista">
     <h2 class="seccion-texto-titulo">Líneas de investigación</h2>
     <div class="seccion-texto-separador"></div>
-    <a href="?option=3" class="seccion-lista-item">
+    <a href="?option=26" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/lineasInvestigacion/ingenieriaAlimentos.png" alt="">
       <h5 class="seccion-lista-parrafo">Ingeniería de Alimentos</h5>
     </a>
 
-    <a href="?option=3" class="seccion-lista-item">
+    <a href="?option=26" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/lineasInvestigacion/nanotecnologiaAlimentos.png" alt="">
       <h5 class="seccion-lista-parrafo">Tecnología y Nanotecnología de Alimentos</h5>
     </a>
 
-    <a href="?option=3" class="seccion-lista-item">
+    <a href="?option=26" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/lineasInvestigacion/procesosBiologicos.png" alt="">
       <h5 class="seccion-lista-parrafo">Ingeniería y Tecnología de Procesos Biológicos</h5>
     </a>
 
-    <a href="?option=3" class="seccion-lista-item">
+    <a href="?option=26" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/lineasInvestigacion/nutrigeneticaAlimentos.png" alt="">
       <h5 class="seccion-lista-parrafo">Estudios Nutrigenénicos, Funcionales y Toxicológicos de Alimentos</h5>
     </a>
 
-    <a href="?option=3" class="seccion-lista-item">
+    <a href="?option=26" class="seccion-lista-item">
       <img class="seccion-lista-icono" src="img/lineasInvestigacion/biologiaMolecularAlimentos.png" alt="">
       <h5 class="seccion-lista-parrafo">Aplicaciones de la Biología Molecular en Ingeniería Metabólica,
       Biocatálisis y Control Biológico</h5>
