@@ -1,7 +1,7 @@
 <?php
 require_once("src/Models/Conexion.php");
-require_once "src/Models/Docente.php";
-require_once "src/Models/Egresado.php";
+require_once ("src/Models/Docente.php");
+require_once ("src/Models/Egresado.php");
 
 $url = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
 
