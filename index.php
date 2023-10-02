@@ -1,33 +1,26 @@
-<?php /*
-    require_once("src/Models/Conexion.php");
-    require_once "src/Models/Docente.php";
-    require_once("src/Models/Materia.php");
-    require_once("src/Models/Especialidad.php");
-    require_once("src/Models/Comunidad.php");
+<?php
+require_once("src/Models/Conexion.php");
+require_once "src/Models/Docente.php";
+require_once "src/Models/Egresado.php";
 
-    */
-    $url = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-    
-    $urlControl = array(
-        $_SERVER['SERVER_NAME'] . "/Doctorado-CienciasEnAlimentos/",
-        $_SERVER['SERVER_NAME'] . "/Doctorado-CienciasEnAlimentos/?option=0"
-    );
-    
-    /*
-    $programaId = 3;
-    $api = 'http://localhost:3010';
-    $PATH_DOCENTE =  $GLOBALS['api'] . '/imagenes/Doct-CienciasAlimentos/docentes/';
-    $conn = new Conexion();
-    $conn->connect();
-    $docente = new Docente();
-    $docente->setConnection($conn->getDB());
-    $materia = new Materia();
-    $materia->setConnection($conn->getDB());
-    $especialidad = new Especialidad();
-    $especialidad->setConnection($conn->getDB());
-    $comunidad = new Comunidad();
-    $comunidad->setConnection($conn->getDB());
-*/
+$url = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+
+$urlControl = array(
+    $_SERVER['SERVER_NAME'] . "/Doctorado-CienciasEnAlimentos/",
+    $_SERVER['SERVER_NAME'] . "/Doctorado-CienciasEnAlimentos/?option=0"
+);
+
+
+$programaId = 13;
+$api = 'http://localhost:3010';
+$PATH_DOCENTE =  $GLOBALS['api'] . '/imagenes/MECEIB/docentes/';
+
+$conn = new Conexion();
+$conn->connect();
+$docente = new Docente();
+$docente->setConnection($conn->getDB());
+$egresado = new Egresado();
+$egresado->setConnection($conn->getDB());
 ?>
 
 <!DOCTYPE html>
@@ -48,25 +41,25 @@
     <title>Doctorado en Ciencias en Alimentos</title>
 </head>
 
-<?php 
-    include_once "src/Views/header.php";
+<?php
+include_once "src/Views/header.php";
 
-    
-    for ($i = 0; $i < 2; $i++) {
-        if ($url == $urlControl[$i]) {
-            include_once "src/Views/inicio.php";
-        }
-    }
 
-    if (isset($_GET['option'])) {
-        include_once "src/Controllers/page-controller.php";
-    } else {
+for ($i = 0; $i < 2; $i++) {
+    if ($url == $urlControl[$i]) {
         include_once "src/Views/inicio.php";
     }
+}
+
+if (isset($_GET['option'])) {
+    include_once "src/Controllers/page-controller.php";
+} else {
+    include_once "src/Views/inicio.php";
+}
 ?>
 
 <?php
-    include_once "src/Views/footer.php";
+include_once "src/Views/footer.php";
 ?>
 
 </html>
