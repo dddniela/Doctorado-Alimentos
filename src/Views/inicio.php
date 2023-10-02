@@ -223,11 +223,11 @@
 </section>
 <!-- Fin Comunidad docente -->
 
-<!-- Sección: Recursos -->
+<!-- Sección: Descargas doctorado -->
 <section class="seccion-contenedor">
 
   <div class="seccion-lista">
-    <h2 class="seccion-texto-titulo">Recursos</h2>
+    <h2 class="seccion-texto-titulo">Descargas Doctorado</h2>
 
     <div class="seccion-texto-separador"></div>
    
@@ -258,6 +258,50 @@
 
   <img class="seccion-imagen" src="img/Inicio/seccion8.webp" alt="">
 
+</section>
+
+<!-- Sección: Catálogo de asignaturas de Doctorado -->
+<section class="seccion-contenedor">
+  
+  <img class="seccion-imagen" src="img/Inicio/seccion10.webp" alt="">
+
+  <div class="seccion-lista">
+    <h2 class="seccion-texto-titulo">Catálogo de Asignaturas de Doctorado</h2>
+
+    <div class="seccion-texto-separador"></div>
+   
+    <a href="https://tinyurl.com/mrm5yjuj" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Seminario de Investigación</h5>
+    </a>
+
+    <a href="https://tinyurl.com/bddhrebk" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Seminario Predoctoral</h5>
+    </a>
+
+    <a href="https://tinyurl.com/bddkfjkb" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Examen Predoctoral</h5>
+    </a>
+
+    <a href="https://tinyurl.com/32cyye7r" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Proyecto de Investigación I</h5>
+    </a>
+
+    <a href="https://tinyurl.com/yb9ze4zw" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Proyecto de Investigación II</h5>
+    </a>
+
+    <a href="https://tinyurl.com/mr2jv6j2" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Proyecto de Investigación III</h5>
+    </a>
+
+    <a href="https://tinyurl.com/4d977j6a" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Proyecto de Investigación IV</h5>
+    </a>
+
+    <a href="https://tinyurl.com/y3jc22ww" class="seccion-lista-item">
+      <h5 class="seccion-lista-parrafo">Proyecto de Investigación V</h5>
+    </a>
+  </div>
 </section>
 
 <!-- Redes sociales -->
