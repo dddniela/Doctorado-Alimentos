@@ -22,51 +22,47 @@
                 </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show text-align-center" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
 
-                    <div class="row justify-content-center">
-                        <div class="tab-pane fade show active" id="collapseOne" role="tabpanel" aria-labelledby="collapseOne">
-                            <div class="container">
-                                <section class="lightSection bg-light p-2">
-                                    <div class="row px-2 g-0">
-                                        <div class="col-lg-6 col-12 p-2 shadow-sm">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <img class="img-fluid rounded" src="img/laboratorios/ingenieria-alimentos/IMG_7573.JPG" alt="">
-                                            </div>
+                <div>
+                    <section class="lightSection bg-light">
+                        <div class="row px-2 g-0">
+
+                            <div class="col-lg-6 col-12 p-2 shadow-sm">
+                                <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                    <img class="img-fluid rounded" src="img/laboratorios/ingenieria-alimentos/IMG_7594.JPG" alt="">
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6 col-12 p-4">
+                                <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                    <div class="row g-0">
+                                        <div class="col-12">
+                                            <h2 class="sectionTitle text-center font-bold m-3">Ingeniería de Alimentos</h2>
+                                            <div class="sectionSeparator"></div>
                                         </div>
-
-                                        <div class="lightSection col-lg-6 col-12 p-4">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <div class="row g-0">
-                                                    <div class="col-12">
-                                                        <h2 class="sectionTitle text-center font-bold m-3">
-                                                            Ingeniería de Alimentos
-                                                        </h2>
-                                                        <div class="sectionSeparator"></div>
-                                                    </div>
-                                                    <div class="col-12" style="text-align: center;">
-                                                        <h3 class="seccion-texto-subtitulo">Objetivo</h3>
-                                                        <p style="text-align: justify;">
-                                                            Crear conocimiento aplicable a la optimación térmica y
-                                                            económica de procesos de transformación de alimentos.
-                                                        </p>
-                                                        <h3 class="seccion-texto-subtitulo">Integrantes</h3>
-                                                        <p style="text-align: justify;">
-                                                            Dr. Miguel Angel García Alvarado, Dra. Guadalupe del Carmen Rodríguez Jimenes,
-                                                            Dra. Madeleine Hidalgo Morales, Dr. Andrés Antonio Acosta Osorio,
-                                                            Dr. Marco Antonio Salgado Cervantes, Dr. Víctor José Robles Olvera.
-                                                        </p>
-                                                    </div>
-                                                </div>
+                                        <div class="col-12" style="text-align: center;">
+                                            <h5 class="font-bold" style="text-align: justify">Objetivo</h5>
+                                            <p style="text-align: justify;">
+                                                Crear conocimiento aplicable a la optimación térmica
+                                                y económica de procesos de transformación de alimentos.
+                                            </p>
+                                            <h5 class="font-bold" style="text-align: justify">Integrantes</h5>
+                                            <div class="bg-light">
+                                                <p style="text-align: justify;">
+                                                    Dr. Miguel Angel García Alvarado, Dra. Guadalupe del Carmen Rodríguez Jimenes,
+                                                    Dra. Madeleine Hidalgo Morales, Dr. Andrés Antonio Acosta Osorio,
+                                                    Dr. Marco Antonio Salgado Cervantes, Dr. Víctor José Robles Olvera.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
+                                </div>
                             </div>
-                        </div>
-                    </div>
 
+                        </div>
+                    </section>
                 </div>
+
             </div>
         </div>
 
@@ -80,49 +76,47 @@
             <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
 
-                    <div class="row justify-content-center">
-                        <div class="tab-pane fade" id="collapseTwo" role="tabpanel" aria-labelledby="collapseTwo">
-                            <div class="container">
-                                <section class="lightSection bg-light p-2">
-                                    <div class="row px-2 g-0">
-                                        <div class="col-lg-6 col-12 p-2 shadow-sm">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <img class="img-fluid rounded" src="img/laboratorios/ingenieria-alimentos/IMG_7594.JPG" alt="">
-                                            </div>
-                                        </div>
+                    <div>
+                        <section class="lightSection bg-light">
+                            <div class="row px-2 g-0">
 
-                                        <div class="lightSection col-lg-6 col-12 p-4">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <div class="row g-0">
-                                                    <div class="col-12">
-                                                        <h2 class="sectionTitle text-center font-bold m-3">
-                                                            Tecnología y Nanotecnología de Alimentos
-                                                        </h2>
-                                                        <div class="sectionSeparator"></div>
-                                                    </div>
-                                                    <div class="col-12" style="text-align: center;">
-                                                        <h3 class="seccion-texto-subtitulo">Objetivo</h3>
-                                                        <p style="text-align: justify;">
-                                                            Caracterizar los principales determinantes de la calidad de los alimentos
-                                                            tanto materias primas como producto terminado a nivel sensorial,
-                                                            fisicoquímico y microbiológico, poner a punto procesos tecnológicos de
-                                                            estabilización que permitan la obtención de productos con valor agregado
-                                                            y garantizar la inocuidad de productos frescos y transformados.
-                                                        </p>
-                                                        <h3 class="seccion-texto-subtitulo">Integrantes</h3>
-                                                        <p style="text-align: justify;">
-                                                            Dra. Mirna Leonor Suárez Quiroz, Dr. Javier de la Cruz Medina,
-                                                            Dr. Óscar González Ríos, José Alberto Monroy Rivera,
-                                                            Dr. Hugo Sergio García Galindo, Dra. Cynthia Cano Sarmiento.
-                                                        </p>
-                                                    </div>
+                                <div class="col-lg-6 col-12 p-2 shadow-sm">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <img class="img-fluid rounded" src="img/laboratorios/ingenieria-alimentos/IMG_7572.JPG" alt="">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-12 p-4">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <div class="row g-0">
+                                            <div class="col-12">
+                                                <h2 class="sectionTitle text-center font-bold m-3">Tecnología y Nanotecnología de Alimentos</h2>
+                                                <div class="sectionSeparator"></div>
+                                            </div>
+                                            <div class="col-12" style="text-align: center;">
+                                                <h5 class="font-bold" style="text-align: justify">Objetivo</h5>
+                                                <p style="text-align: justify;">
+                                                    Caracterizar los principales determinantes de la calidad de los alimentos 
+                                                    tanto materias primas como producto terminado a nivel sensorial, 
+                                                    fisicoquímico y microbiológico, poner a punto procesos tecnológicos de 
+                                                    estabilización que permitan la obtención de productos con valor agregado y
+                                                    garantizar la inocuidad de productos frescos y transformados.
+                                                </p>
+                                                <h5 class="font-bold" style="text-align: justify">Integrantes</h5>
+                                                <div class="bg-light">
+                                                    <p style="text-align: justify;">
+                                                        Dra. Mirna Leonor Suárez Quiroz, Dr. Javier de la Cruz Medina, 
+                                                        Dr. Óscar González Ríos, José Alberto Monroy Rivera, 
+                                                        Dr. Hugo Sergio García Galindo, Dra. Cynthia Cano Sarmiento
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
+                                </div>
+
                             </div>
-                        </div>
+                        </section>
                     </div>
 
                 </div>
@@ -139,47 +133,42 @@
             <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
 
-                    <div class="row justify-content-center">
-                        <div class="tab-pane fade" id="collapseThree" role="tabpanel" aria-labelledby="collapseThree">
-                            <div class="container">
+                    <div>
+                        <section class="lightSection bg-light">
+                            <div class="row px-2 g-0">
 
-                                <section class="lightSection bg-light p-2">
-                                    <div class="row px-2 g-0">
-                                        <div class="col-lg-6 col-12 p-2 shadow-sm">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <img class="img-fluid rounded" src="img/laboratorios/bioprocesos/IMG_7643.JPG" alt="">
+                                <div class="col-lg-6 col-12 p-2 shadow-sm">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <img class="img-fluid rounded" src="img/laboratorios/ingenieria-alimentos/IMG_7573.JPG" alt="">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-12 p-4">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <div class="row g-0">
+                                            <div class="col-12">
+                                                <h2 class="sectionTitle text-center font-bold m-3">Ingeniería y Tecnología de Procesos Biológicos</h2>
+                                                <div class="sectionSeparator"></div>
                                             </div>
-                                        </div>
-
-                                        <div class="lightSection col-lg-6 col-12 p-4">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <div class="row g-0">
-                                                    <div class="col-12">
-                                                        <h2 class="sectionTitle text-center font-bold m-3">
-                                                            Ingeniería y Tecnología de Procesos Biológicos
-                                                        </h2>
-                                                        <div class="sectionSeparator"></div>
-                                                    </div>
-                                                    <div class="col-12" style="text-align: center;">
-                                                        <h3 class="seccion-texto-subtitulo">Objetivo</h3>
-                                                        <p style="text-align: justify;">
-                                                            Desarrollo de procesos y productos alimentarios y biotecnológicos de
-                                                            interés comercial.
-                                                        </p>
-                                                        <h3 class="seccion-texto-subtitulo">Integrantes</h3>
-                                                        <p style="text-align: justify;">
-                                                            Dra. Beatriz Torrestiana Sánchez, Dra. María Guadalupe Aguilar Uscanga,
-                                                            Dra. Patricia G. Mendoza García.
-                                                        </p>
-                                                    </div>
+                                            <div class="col-12" style="text-align: center;">
+                                                <h5 class="font-bold" style="text-align: justify">Objetivo</h5>
+                                                <p style="text-align: justify;">
+                                                    Desarrollo de procesos y productos alimentarios y biotecnológicos de interés comercial.
+                                                </p>
+                                                <h5 class="font-bold" style="text-align: justify">Integrantes</h5>
+                                                <div class="bg-light">
+                                                    <p style="text-align: justify;">
+                                                        Dra. Beatriz Torrestiana Sánchez, Dra. María Guadalupe Aguilar Uscanga, 
+                                                        Dra. Patricia G. Mendoza García.
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
+                                </div>
 
                             </div>
-                        </div>
+                        </section>
                     </div>
 
                 </div>
@@ -196,51 +185,47 @@
             <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
 
-                    <div class="row justify-content-center">
-                        <div class="tab-pane fade" id="collapseFour" role="tabpanel" aria-labelledby="collapseFour">
-                            <div class="container">
+                <div>
+                        <section class="lightSection bg-light">
+                            <div class="row px-2 g-0">
 
-                                <section class="lightSection bg-light p-2">
-                                    <div class="row px-2 g-0">
-                                        <div class="col-lg-6 col-12 p-2 shadow-sm">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <img class="img-fluid rounded" src="img/laboratorios/bioprocesos/IMG_7636.JPG" alt="">
+                                <div class="col-lg-6 col-12 p-2 shadow-sm">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <img class="img-fluid rounded" src="img/laboratorios/ingenieria-alimentos/IMG_7578.JPG" alt="">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-12 p-4">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <div class="row g-0">
+                                            <div class="col-12">
+                                                <h2 class="sectionTitle text-center font-bold m-3">Estudios Nutrigenénicos, Funcionales y Toxicológicos de Alimentos</h2>
+                                                <div class="sectionSeparator"></div>
                                             </div>
-                                        </div>
-
-                                        <div class="lightSection col-lg-6 col-12 p-4">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <div class="row g-0">
-                                                    <div class="col-12">
-                                                        <h2 class="sectionTitle text-center font-bold m-3">
-                                                            Estudios Nutrigenénicos, Funcionales y Toxicológicos de Alimentos
-                                                        </h2>
-                                                        <div class="sectionSeparator"></div>
-                                                    </div>
-                                                    <div class="col-12" style="text-align: center;">
-                                                        <h3 class="seccion-texto-subtitulo">Objetivo</h3>
-                                                        <p style="text-align: justify;">
-                                                            Extracción, purificación y caracterización estructural y
-                                                            funcional de alimentos funcionales y nutracéuticos y su
-                                                            modificación química y enzimática.
-                                                        </p>
-                                                        <h3 class="seccion-texto-subtitulo">Integrantes</h3>
-                                                        <p style="text-align: justify;">
-                                                            Dra. Rosa María Oliart Ros, Dr. Gerardo Valerio Alfaro,
-                                                            Dra. Carolina Peña Montes, Dra. Abril Ramírez Higuera.
-                                                        </p>
-                                                    </div>
+                                            <div class="col-12" style="text-align: center;">
+                                                <h5 class="font-bold" style="text-align: justify">Objetivo</h5>
+                                                <p style="text-align: justify;">
+                                                    Extracción, purificación y caracterización estructural y funcional de 
+                                                    alimentos funcionales y nutracéuticos y su modificación química y enzimática.
+                                                </p>
+                                                <h5 class="font-bold" style="text-align: justify">Integrantes</h5>
+                                                <div class="bg-light">
+                                                    <p style="text-align: justify;">
+                                                        Dra. Rosa María Oliart Ros, Dr. Gerardo Valerio Alfaro, 
+                                                        Dra. Carolina Peña Montes, Dra. Abril Ramírez Higuera.
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
+                                </div>
 
                             </div>
-                        </div>
+                        </section>
                     </div>
 
                 </div>
+
             </div>
         </div>
 
@@ -254,52 +239,48 @@
             <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
                 <div class="accordion-body">
 
-                    <div class="row justify-content-center">
-                        <div class="tab-pane fade" id="collapseFive" role="tabpanel" aria-labelledby="collapseFive">
-                            <div class="container">
+                    <div>
+                        <section class="lightSection bg-light">
+                            <div class="row px-2 g-0">
 
-                                <section class="lightSection bg-light p-2">
-                                    <div class="row px-2 g-0">
-                                        <div class="col-lg-6 col-12 p-2 shadow-sm">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <img class="img-fluid rounded" src="img/laboratorios/bioprocesos/IMG_7636.JPG" alt="">
+                                <div class="col-lg-6 col-12 p-2 shadow-sm">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <img class="img-fluid rounded" src="img/laboratorios/ingenieria-alimentos/IMG_7570.JPG" alt="">
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-12 p-4">
+                                    <div class="d-flex justify-content-center align-items-center w-100 h-100">
+                                        <div class="row g-0">
+                                            <div class="col-12">
+                                                <h2 class="sectionTitle text-center font-bold m-3">Aplicaciones de la Biología Molecular en Ingeniería Metabólica, Biocatálisis y Control Biológico</h2>
+                                                <div class="sectionSeparator"></div>
                                             </div>
-                                        </div>
-
-                                        <div class="lightSection col-lg-6 col-12 p-4">
-                                            <div class="d-flex justify-content-center align-items-center w-100 h-100">
-                                                <div class="row g-0">
-                                                    <div class="col-12">
-                                                        <h2 class="sectionTitle text-center font-bold m-3">
-                                                            Aplicaciones de la Biología Molecular en Ingeniería Metabólica,
-                                                            Biocatálisis y Control Biológico
-                                                        </h2>
-                                                        <div class="sectionSeparator"></div>
-                                                    </div>
-                                                    <div class="col-12" style="text-align: center;">
-                                                        <h3 class="seccion-texto-subtitulo">Objetivo</h3>
-                                                        <p style="text-align: justify;">
-                                                            Utilizar enzimas y sistemas enzimáticos, de forma nativa o modificada genéticamente,
-                                                            junto con fuentes de energía ambientalmente aceptable para la obtención y modificación
-                                                            de productos de interés farmoquímico, alimentario y biotecnológico en general, de alto
-                                                            valor agregado; así como en la biodegradación de productos nocivos al medio ambiente.
-                                                        </p>
-                                                        <h3 class="seccion-texto-subtitulo">Integrantes</h3>
-                                                        <p style="text-align: justify;">
-                                                            Dra. Rosa María Oliart Ros,
-                                                            Dr. José Joel Espinosa de los Monteros Fernández,
-                                                            Dra. Carolina Peña Montes, Dra. Patricia G. Mendoza García.
-                                                        </p>
-                                                    </div>
+                                            <div class="col-12" style="text-align: center;">
+                                                <h5 class="font-bold" style="text-align: justify">Objetivo</h5>
+                                                <p style="text-align: justify;">
+                                                    Utilizar enzimas y sistemas enzimáticos, de forma nativa o modificada genéticamente, 
+                                                    junto con fuentes de energía ambientalmente aceptable para la obtención y modificación 
+                                                    de productos de interés farmoquímico, alimentario y biotecnológico en general, de alto 
+                                                    valor agregado; así como en la biodegradación de productos nocivos al medio ambiente.
+                                                </p>
+                                                <h5 class="font-bold" style="text-align: justify">Integrantes</h5>
+                                                <div class="bg-light">
+                                                    <p style="text-align: justify;">
+                                                        Dra. Rosa María Oliart Ros, Dr. José Joel Espinosa de los Monteros Fernández, 
+                                                        Dra. Carolina Peña Montes, Dra. Patricia G. Mendoza García.
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                </section>
+                                </div>
 
                             </div>
-                        </div>
+                        </section>
                     </div>
+
+                </div>
 
                 </div>
             </div>
