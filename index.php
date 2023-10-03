@@ -13,7 +13,7 @@ $urlControl = array(
 
 $programaId = 13;
 $api = 'http://localhost:3010';
-$PATH_DOCENTE =  $GLOBALS['api'] . '/imagenes/MECEIB/docentes/';
+$PATH_DOCENTE =  $GLOBALS['api'] . '/imagenes/Doct-CienciasAlimentos/docentes/';
 
 $conn = new Conexion();
 $conn->connect();
