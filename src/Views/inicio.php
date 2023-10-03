@@ -213,7 +213,7 @@
               demuestran diariamente su compromiso en las aulas. Son profesionales que tienen la facultad de
               transformar vidas, de impactar a las futuras generaciones de estudiantes.
             </p>
-            <a class="btn btn-warning font-bold" href="?option=2" role="button">¡Conocer docentes!</a>
+            <a class="btn btn-warning font-bold" href="?option=27" role="button">¡Conocer docentes!</a>
           </div>
 
         </div>
