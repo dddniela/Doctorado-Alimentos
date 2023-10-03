@@ -125,13 +125,13 @@ class Docente
             $informacionAcademica = $docente['informacionAcademica'];
             $materias = $docente['materias'];
             $contacto = $docente['contacto'];
-            $perfilDeseable = $docente['perfilDeseable'] == 1 ? 'Si' : 'No';
-            $sni = $docente['sni'];
-            $orcid = $docente['orcid'];
-            $resumenCONAHCYT = $docente['resumenCONAHCYT'];
-            $googleAcademico= $docente['googleAcademico'];
-            $researchGate = $docente['researchGate'];
-            $SCOPUS = $docente['SCOPUS'];
+            $perfilDeseable = isset($docente['perfilDeseable']) ? $docente['perfilDeseable'] : 'No';
+            $sni = isset($docente['sni']) ? $docente['sni'] : 'No';
+            $orcid = isset($docente['orcid']) ? $docente['orcid'] : 'No';
+            $resumenCONAHCYT = isset($docente['resumenCONAHCYT']) ? $docente['resumenCONAHCYT'] : 'No';
+            $googleAcademico = isset($docente['googleAcademico']) ? $docente['googleAcademico'] : 'No';
+            $researchGate = isset($docente['researchGate']) ? $docente['researchGate'] : 'No';
+            $SCOPUS = isset($docente['SCOPUS']) ? $docente['SCOPUS'] : 'No';
             $urlImagen = $GLOBALS['PATH_DOCENTE'] . $docente['urlImagen'];
 
             $codigo .= "<div class='col-lg-4 col-sm-6 text-center p-3'>
