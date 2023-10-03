@@ -125,7 +125,7 @@ class Docente
             $informacionAcademica = $docente['informacionAcademica'];
             $materias = $docente['materias'];
             $contacto = $docente['contacto'];
-            $perfilDeseable = $docente['perfilDeseable'];
+            $perfilDeseable = $docente['perfilDeseable'] == 1 ? 'Si' : 'No';
             $sni = $docente['sni'];
             $orcid = $docente['orcid'];
             $resumenCONAHCYT = $docente['resumenCONAHCYT'];
