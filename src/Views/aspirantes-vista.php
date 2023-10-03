@@ -27,7 +27,7 @@
 
         <h3 class="seccion-texto-subtitulo">Requisitos:</h3>
         <li class="seccion-texto-lista-item">Solicitud en el formato institucional</li>
-        <li class="seccion-texto-lista-item">Carta de exposición de motivos para estudiar el postgrado</li>
+        <li class="seccion-texto-lista-item">Carta de exposición de motivos para estudiar el posgrado</li>
         <li class="seccion-texto-lista-item">2 cartas de recomendación-evaluación de profesores y/o investigadores reconocidos en el área</li>
         <li class="seccion-texto-lista-item">Aprobar el proceso de evaluación de admisión</li>
     </div>
