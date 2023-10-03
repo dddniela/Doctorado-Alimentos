@@ -26,7 +26,7 @@
         </p>
 
         <h3 class="seccion-texto-subtitulo">Objetivos específicos:</h3>
-        <li class="seccion-texto-lista-item">Formar profesionales e investigadores capaces de generar y aplicar conceptos de Ingeniería Bioquímica en las áreas de Alimentos y Biotecnología.</li>
+        <li class="seccion-texto-lista-item">Formar personal altamente capacitado para participar en investigación científica y tecnológica.</li>
         <li class="seccion-texto-lista-item">Desarrollar proyectos de investigación de alto nivel en las áreas de alimentos y biotecnología.</li>
         <li class="seccion-texto-lista-item">Vincular la investigación con el sector productivo y el entorno social de la institución para mejorar el desarrollo de la industria regional y nacional.</li>
         <li class="seccion-texto-lista-item">Difundir los resultados de las investigaciones realizadas.</li>
