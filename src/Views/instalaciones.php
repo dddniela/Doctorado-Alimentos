@@ -17,28 +17,28 @@
   <div class="seccion-tarjetas row g-1 justify-content-center">
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/enzimologia/IMG_7486.jpg" alt="">
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/enzimologia/lab-enzimo.png" alt="">
       <h5 class="seccion-tarjeta-titulo">Laboratorio de Enzimología</h5>
       <p class="seccion-tarjeta-descripcion">Estudios concernientes a las actividades de enzimas microbianas o vegetales</p>
       <a href="?option=10" class="seccion-boton">Explorar</a>
     </div>
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7573.jpg" alt="">
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/ingenieria-alimentos/alimentos.png" alt="">
       <h5 class="seccion-tarjeta-titulo">Laboratorio de Ingeniería de Alimentos</h5>
       <p class="seccion-tarjeta-descripcion">Evolución de las características fisicoquímicas del material alimentario y los parámetros de concepción y de funcionamiento del equipo</p>
       <a href="?option=11" class="seccion-boton">Explorar</a>
     </div>
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/tecnologia-cafe/IMG_7621.jpg" alt="">
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/tecnologia-cafe/cafe.png" alt="">
       <h5 class="seccion-tarjeta-titulo">Laboratorio de Tecnología del Café</h5>
       <p class="seccion-tarjeta-descripcion">Este laboratorio genera conocimientos sobre la calidad del café, cacao y pimienta.</p>
       <a href="?option=12" class="seccion-boton">Explorar</a>
     </div>
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/microbiologia/IMG_7486.jpg" alt="">
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/microbiologia/microbiologia.png" alt="">
       <h5 class="seccion-tarjeta-titulo">Laboratorio de Microbiología</h5>
       <p class="seccion-tarjeta-descripcion">Se cuenta con la infraestructura necesaria para el cultivo, identificación y conservación de microorganismos.</p>
       <a href="?option=13" class="seccion-boton">Explorar</a>
@@ -52,22 +52,22 @@
     </div>
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/ecologicaAmbientalCiencias/ecologicaAmbientalCiencias.png" alt="">
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/ecologicaAmbientalCiencias/ecologia.png" alt="">
       <h5 class="seccion-tarjeta-titulo">Laboratorio de Ingeniería Ecológica Ambiental y Ciencias</h5>
       <p class="seccion-tarjeta-descripcion">Desarrollar y realizar proyectos de investigación de ciencia básica y aplicada en el ámbito de la ecología e ingeniería ecológica y ambiental.</p>
       <a href="?option=15" class="seccion-boton">Explorar</a>
     </div>
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/genetica-aplicada/IMG_7502.jpg" alt="">
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/genetica-aplicada/genetica.png" alt="">
       <h5 class="seccion-tarjeta-titulo">Laboratorio de Genética Aplicada</h5>
       <p class="seccion-tarjeta-descripcion">Los objetivos de este laboratorio son: realizar investigación básica y aplicada en el estudio de especies biológicas de interés biotecnológico.</p>
       <a href="?option=16" class="seccion-boton">Explorar</a>
     </div>
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/fisico-quimica/IMG_7431.jpg" alt="">
-      <h5 class="seccion-tarjeta-titulo">Laboratorio de Físico-Química</h5>
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/fisico-quimica/fisicoquimica.png" alt="">
+      <h5 class="seccion-tarjeta-titulo">Laboratorio de Físicoquímica</h5>
       <p class="seccion-tarjeta-descripcion">Investigación básica y aplicada sobre las propiedades fisicoquímicas de productos alimenticios naturales o procesados.</p>
       <a href="?option=17" class="seccion-boton">Explorar</a>
     </div>
@@ -87,7 +87,7 @@
     </div>
 
     <div href="#" class="seccion-tarjeta col-lg-3 col-md-5 col-10">
-      <img class="seccion-tarjeta-imagen" src="img/laboratorios/bioprocesos/IMG_7647.jpg" alt="">
+      <img class="seccion-tarjeta-imagen" src="img/laboratorios/bioprocesos/bioprocesos.png" alt="">
       <h5 class="seccion-tarjeta-titulo">Laboratorio de Bioprocesos</h5>
       <p class="seccion-tarjeta-descripcion">Procesos de separación por membranas (MF, UF, destilación osmótica) en la recuperación, concentración y purificación de productos biológicos de interés comercial.</p>
       <a href="?option=20" class="seccion-boton">Explorar</a>

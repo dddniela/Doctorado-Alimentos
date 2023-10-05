@@ -25,7 +25,7 @@
             <li class="seccion-texto-lista-item">52-229-9345701 ext:213</li>
         </div>
 
-        <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/IMG_7502.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/genetica-aplicada/genetica.webp" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->

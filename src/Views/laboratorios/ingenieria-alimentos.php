@@ -27,7 +27,7 @@
             <li class="seccion-texto-lista-item">52-229-9345701  ext:104</li>
         </div>
 
-        <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/IMG_7573.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/ingenieria-alimentos/alimentos.webp" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->

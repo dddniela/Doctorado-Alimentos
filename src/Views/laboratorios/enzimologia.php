@@ -27,7 +27,7 @@
         <li class="seccion-texto-lista-item">(229) 934 5701 ext.  108 y 212</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/enzimologia/IMG_7486.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorios/enzimologia/lab-enzimo.webp" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->

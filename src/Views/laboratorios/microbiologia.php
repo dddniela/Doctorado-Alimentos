@@ -26,7 +26,7 @@
             <li class="seccion-texto-lista-item">52-229-9345701 ext:114</li>
         </div>
 
-        <img class="seccion-imagen" src="img/laboratorios/microbiologia/IMG_7486.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/microbiologia/microbiologia.webp" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->

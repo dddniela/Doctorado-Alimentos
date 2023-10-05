@@ -27,7 +27,7 @@
         <li class="seccion-texto-lista-item">(229)934 5701 ext.  105, 106, 205</li>
     </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/bioprocesos/IMG_7647.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorios/bioprocesos/bioprocesos.webp" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->

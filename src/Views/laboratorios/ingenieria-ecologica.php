@@ -25,5 +25,5 @@
             <li class="seccion-texto-lista-item">52-229-9345701 ext:125</li>
         </div>
 
-        <img class="seccion-imagen" src="img/laboratorios/ecologicaAmbientalCiencias/IMG-1.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/ecologicaAmbientalCiencias/ecologia.webp" alt="">
 </section>

@@ -13,7 +13,7 @@
 <section class="seccion-contenedor">
 
         <div class="seccion-texto">
-            <h2 class="seccion-texto-titulo">Laboratorio de Físico-Química</h2>
+            <h2 class="seccion-texto-titulo">Laboratorio de Físicoquímica</h2>
             <div class="seccion-texto-separador"></div>
             <p class="seccion-texto-parrafo">Tienen por objeto llevar a cabo investigación básica y aplicada sobre las propiedades fisicoquímicas de productos alimenticios naturales o procesados a través de análisis térmicos, reológicos, de esfuerzos, de actividad de agua y de vida de anaquel. Los métodos básicos que se utilizan son: Análisis térmico: para determinar los cambios de entalpía, peso y deformación durante el calentamiento de la muestra con respecto a un material inerte de referencia. Análisis reológico: para determinar el comportamiento reológico de los alimentos líquidos (la forma en que ellos se deforman y fluyen) como un reflejo de su complejidad composicional o estructural. Análisis de esfuerzos: para determinar la fuerza necesaria para la deformación o ruptura de un sólido bajo esfuerzos cortantes, de tensión o de compresión relacionándolos con la textura de los alimentos. Análisis de actividad de agua: para determinar la cantidad de agua disponible para el desarrollo de reacciones, microorganismos o cambios fisicoquímicos en los alimentos como un parámetro indispensable en la estabilidad del producto.</p>
 
@@ -30,7 +30,7 @@
             <li class="seccion-texto-lista-item">+52 (229) 934-1500 ext 128</li>
         </div>
 
-    <img class="seccion-imagen" src="img/laboratorios/fisico-quimica/IMG_7431.jpg" alt="">
+    <img class="seccion-imagen" src="img/laboratorios/fisico-quimica/fisicoquimica.webp" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->

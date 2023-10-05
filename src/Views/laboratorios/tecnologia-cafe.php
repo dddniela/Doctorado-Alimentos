@@ -27,7 +27,7 @@
             <li class="seccion-texto-lista-item">(229)934 5701 ext.  203 y 210</li>
         </div>
 
-        <img class="seccion-imagen" src="img/laboratorios/tecnologia-cafe/IMG_7621.jpg" alt="">
+        <img class="seccion-imagen" src="img/laboratorios/tecnologia-cafe/cafe.webp" alt="">
 </section>
 
 <!-- Sección: Equipos & servicios -->
